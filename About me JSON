@@ -1,0 +1,34 @@
+{
+  "Name":"Evgeny",
+  "Age":26,
+  "Languages":
+  {
+    "English":"Pre-intermediate",
+    "Belarussian":"Native"
+    "Russian":"Native"
+  },
+  "Easy to train?":true,
+  "Interests":
+  [
+    {
+      "Learning":"Always",
+      "TestDocumentation":"GoodKnowledge",
+      "DataBase":"SQL",
+      "TestAPI":"Postman",
+      "MobileTesting":"AndroidStudio",
+      "InterceptionOfTraffic":"Charles",
+      
+    },
+    {
+      "Education":"BNTU",
+            
+    },
+    {
+     "Sport":"Wrestling"
+    }
+  ],
+  "Motivation":
+  [
+    100,100,200
+  ]
+}
